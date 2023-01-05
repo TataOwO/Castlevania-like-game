@@ -1,0 +1,55 @@
+{
+	"width": null,
+	"height": null,
+	"background": "",
+	"blocks": {
+		"wall": {
+			"size": [
+				1,
+				1
+			],
+			"X": [],
+			"Y": []
+		},
+		"chest": {
+			"size": [
+				6,
+				4
+			],
+			"each": []
+		},
+		"teleporter": {
+			"size": [4, 6],
+			"each": []
+		}
+	},
+	"living": {
+		"MC": {
+			"size": [
+				3,
+				5
+			],
+			"pos": [
+				30,
+				15
+			]
+		},
+		"enemy1": {
+			"size": [
+				3,
+				3
+			],
+			"X": [],
+			"Y": []
+		},
+		"enemy2": {
+			"size": [2, 4],
+			"X": [],
+			"Y": []
+		}
+	},
+	"enemyPath": {
+		"X": [],
+		"Y": []
+	}
+}
